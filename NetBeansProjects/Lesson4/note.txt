@@ -1,0 +1,83 @@
+if(expression){
+
+}
+else if(expression){
+}
+...
+else
+....
+
+-----------Nested if:
+outer if
+inner inf
+
+------------logical operators:
+
+and &&
+or ||
+not !
+
+-------------switch:
+switch(value){
+case value1:
+.......
+break;
+case value2:
+............
+break;
+..........
+default:
+.......
+break;
+}
+
+? : conditional operators
+ternary operors
+if ?
+else :
+
+expression?"kici waxaan haddi true yahay":"kici haddi kale";
+-------------age
+Goormee dhalatay: 1996
+age>=18 you are adult, your age is ...
+you are child, your age is:..
+weli lama gaarin
+
+----------ass2: odd and even
+enter number: ...7
+7 is odd
+
+--------ass3: 3 subjects
+sub1:..
+sub2:..
+sub3:...
+---------------------------------------------------
+sub1	sub2	sub3	total	avg	xaalad
+------------------------------------------------
+..	...	...	...	..	paastay
+
+------------Ass4: grade system-----------
+sub1:..
+sub2:..
+sub3:...
+---------------------------------------------------
+sub1	sub2	sub3	total	avg	Grade
+------------------------------------------------
+..	...	...	...	..	A avg>=90 and avg<=100
+
+-----------------Ass5: discount system------------
+Enter item: Basta
+Enter qty: 200
+Enter price : 9.5
+total>=300 discount 2%,
+total>=2000 discount 5%
+-----------------------------------------
+Item	qty	Price	Total	discount	balance
+------------------------------------------------------------
+Basta	200	9.5	1900	38		....
+
+---------------Ass6: EVC---------------
+----------------Ass 7: Anfac-------------------
+
+
+
